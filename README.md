@@ -1,16 +1,37 @@
-## Hi there 👋
+# Привет, я Полина Михалева
 
-<!--
-**lizwerqty/lizwerqty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend-разработчик · Go**
 
-Here are some ideas to get you started:
+Развиваюсь в Go-разработке и создаю собственные backend-проекты. У меня есть опыт командной разработки EdTech-платформы Wilty на TypeScript и Nuxt 4: работаю с API, PostgreSQL, аутентификацией и миграциями базы данных.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Стек
+
+| Направление | Технологии |
+| --- | --- |
+| Go | net/http, Gin, Chi, Echo, Gorilla Mux, Gorilla WebSocket |
+| Данные | PostgreSQL, SQL, SQLite, pgx, GORM, миграции |
+| Backend | HTTP, REST API, JWT, аутентификация, middleware, конкурентность |
+| Тестирование | Unit-тесты, Testify |
+| TypeScript | Nuxt 4, Drizzle ORM, Better Auth, LiveKit, TanStack |
+| Инструменты | Git, GitLab, GitHub, Docker, Docker Compose, Linux, Postman |
+
+## Опыт
+
+В Wilty участвую в разработке серверной части и функциональности продукта:
+
+- Видеозвонки на базе LiveKit и работа с данными комнат.
+- Административная панель и приглашения пользователей в закрытое бета-тестирование.
+- SQL-запросы, изменения схемы PostgreSQL и миграции через Drizzle ORM.
+- Аутентификация и разграничение доступа.
+
+Работаю с существующей кодовой базой и командным процессом в GitLab: задачи, ветки, merge requests и code review.
+
+## Обучение
+
+- Яндекс Практикум, программа «Go-разработчик с нуля», 2025–2026.
+- МГУТУ им. К. Г. Разумовского, «Финансы и бизнес-аналитика», 2023–2027.
+- Английский — B2.
+
+## Связаться со мной
+
+[Telegram · @lizwerqt](https://t.me/lizwerqt)
